@@ -1,9 +1,9 @@
-<img src="https://pandorafms.com/blog/wp-content/uploads/2023/11/DALL%C2%B7E-2023-11-27-13.56.23-A-minimalistic-and-modern-illustration-for-a-blog-post-about-Cloud-Computing.-The-design-includes-simple-symbols-representing-cloud-storage-data-tran.png" width="100%" height="400">
-<h1 align="center">Hi 👋, I'm Khushi</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<img src="https://onlineamrita.com/wp-content/uploads/2022/09/5-Proven-Reasons-to-Learn-Cloud-Computing-Online-from-an-Expert-ahead-blogs.jpg" width="80%" height="400">
+<h1 align="center">Hi 👋, I'm Khushi</h1
+<h3 align="center">I'm currently pursuing my Bachelor's in Information Science at NMAM Institute of Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" >
 
-- 🌱 I’m currently learning **React.js**
+- 🌱My curiosity lies in exploring **Cloud computing**
 
 - 📫 How to reach me **khushiksalian@gmail.com**
 

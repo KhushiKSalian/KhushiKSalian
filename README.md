@@ -1,9 +1,7 @@
 <img src="https://onlineamrita.com/wp-content/uploads/2022/09/5-Proven-Reasons-to-Learn-Cloud-Computing-Online-from-an-Expert-ahead-blogs.jpg" width="100%" height="400">
 <h1 align="center">Hi 👋, I'm Khushi</h1
-<h3 align="center">I'm currently pursuing my Bachelor's in Information Science at NMAM Institute of Technology</h3>
+<h3 align="center">SDE 1 at Ribbon Communications Bangalore</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" >
-
-- 🌱My curiosity lies in exploring **Cloud computing**
 
 - 📫 How to reach me **khushiksalian@gmail.com**
 
